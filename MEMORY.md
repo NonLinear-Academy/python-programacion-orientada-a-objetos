@@ -17,3 +17,4 @@
 - 2026-11-16: Se creó el skill global `nonlinear-video-tutorial` en `~/.gemini/config/skills/nonlinear-video-tutorial/SKILL.md` y se documentaron las reglas audiovisuales en `AGENTS.md`.
 - 2026-11-16: Juliho aprobó los paquetes audiovisuales de los videos 2 a 8 y autorizó avanzar a decidir el repositorio de publicación en GitHub.
 - 2026-11-16: Juliho decidió publicar la serie en un repositorio nuevo dentro de la organización `NonLinear-Academy` (`python-programacion-orientada-a-objetos`).
+- 2026-11-16: Juliho autorizó publicar el repositorio público `NonLinear-Academy/python-programacion-orientada-a-objetos` en GitHub.

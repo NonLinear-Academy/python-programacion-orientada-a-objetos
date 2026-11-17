@@ -24,3 +24,4 @@
 - A petición de Juliho (`/learn`), se persistió el flujo técnico de producción audiovisual en el skill global `nonlinear-video-tutorial` y se actualizaron las reglas de estilo audiovisual en `AGENTS.md`.
 - Se crearon localmente `README.md`, `.gitignore` y `LICENSE` (licencia MIT) para el futuro repositorio `NonLinear-Academy/python-programacion-orientada-a-objetos`.
 - Se inicializó el repositorio Git local en rama `main` con el primer commit de la serie completa.
+- Con autorización de Juliho, se creó el repositorio público `NonLinear-Academy/python-programacion-orientada-a-objetos` en GitHub y se subió la rama `main`.
